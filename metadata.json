@@ -1,0 +1,6 @@
+{
+  "name": "ArthaQuant — Binance Crypto Market & Liquidity Analyzer",
+  "description": "Analisis market crypto real-time menggunakan Binance Spot API dengan indikator SMA, EMA, RSI, MACD, Bollinger Bands, Likuiditas Orderbook, dan rencana eksekusi manual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
